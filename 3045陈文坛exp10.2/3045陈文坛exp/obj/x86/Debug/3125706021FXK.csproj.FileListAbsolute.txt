@@ -1,0 +1,19 @@
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\bin\Debug\3125706021FXK.exe
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\bin\Debug\3125706021FXK.pdb
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\obj\x86\Debug\_3125706021FXK.Form1.resources
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\obj\x86\Debug\_3125706021FXK.Properties.Resources.resources
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\obj\x86\Debug\3125706021FXK.exe
+d:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\obj\x86\Debug\3125706021FXK.pdb
+D:\Documents\Visual Studio 2010\Projects\3125706021FXK\3125706021FXK\bin\Debug\3125706021FXK.exe.config
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\bin\Debug\3125706021FXK.exe.config
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\obj\x86\Debug\3125706021FXK.exe
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\bin\Debug\3125706021FXK.exe
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\bin\Debug\3125706021FXK.pdb
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\obj\x86\Debug\3125706021FXK.csprojResolveAssemblyReference.cache
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\obj\x86\Debug\_3125706021FXK.Form1.resources
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\obj\x86\Debug\_3125706021FXK.Properties.Resources.resources
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\obj\x86\Debug\3125706021FXK.csproj.GenerateResource.Cache
+C:\Users\chenwentan\Desktop\3125706021FXK\3125706021FXK\obj\x86\Debug\3125706021FXK.pdb
